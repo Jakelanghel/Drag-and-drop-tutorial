@@ -4,7 +4,7 @@ Tutorial by Kyle Cook that I followed to learn how to drag and drop elements usi
 ## Overview
 
 I followed this tutorial to learn more about how to drag and drop HTML elements using vanilla JS.
-I am currently finishing up the to do app challenge from frontendmentor.io and was having toruble 
+I am currently finishing up the to do app challenge from frontendmentor.io and was having trouble 
 figuring out how to add drag and drop functionality and this tutorial really helped.
 
 ### Links
