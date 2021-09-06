@@ -2,13 +2,20 @@ body {
     margin: 0;
 }
 
+.container-center {
+    max-width: 1000px;
+    margin: 5rem auto;
+}
 .container {
     background: #333;
-    padding: 1rem;
+    padding: 2.5rem 0;
     margin-top: 1em;
 }
 
 .draggable {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-bottom: 1rem;
     padding: 1rem;
     background: white;
     border: 1px solid black;
